@@ -67,10 +67,6 @@ Grade a submission from the terminal:
 ## 📝 Sample PDFs
 - See the `sample pdfs/` folder for example submissions you can test.
 
----
-
-## 🤝 Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
 ---
 
