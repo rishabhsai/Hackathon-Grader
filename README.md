@@ -17,7 +17,7 @@ A modern, AI-powered tool to automatically grade hackathon submissions (Markdown
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/rishabhsai/Hackathon-Grader.git
    cd hackathon_grader
    ```
 2. **Create a virtual environment:**
